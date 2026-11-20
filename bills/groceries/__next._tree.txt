@@ -1,0 +1,2 @@
+:HL["/security-calculator/bills/_next/static/chunks/0ahl3gun6-ifu.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"groceries","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KC4gpfdMqO30-U0Y8Wlny"}
